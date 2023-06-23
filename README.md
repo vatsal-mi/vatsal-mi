@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vatsal-mi
+- 👋 Hi, I’m VATSAL
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Deep Learning
 - 📫 How to reach me vatsal.gamit@mindinventory.com
