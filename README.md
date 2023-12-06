@@ -1,3 +1,4 @@
+![](http://i.imgur.com/60bts.gif)
 - 👋 Hi, I’m VATSAL
 - 👀 I’m interested in Python & Javascript
 - 🌱 I’m currently learning Deep Learning
