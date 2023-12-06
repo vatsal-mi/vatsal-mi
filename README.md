@@ -1,4 +1,4 @@
-![](http://i.imgur.com/Ssfp7.gif)
+
 - 👋 Hi, I’m VATSAL
 - 👀 I’m interested in Python & Javascript
 - 🌱 I’m currently learning Deep Learning
