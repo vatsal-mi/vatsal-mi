@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/l0O5B4ckht4LrgY12/giphy.gif)
+![](https://media.giphy.com/media/OF0yOAufcWLfi/giphy.gif)
 - 👋 Hi, I’m VATSAL
 - 👀 I’m interested in Python & Javascript
 - 🌱 I’m currently learning Deep Learning
